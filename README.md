@@ -1,8 +1,6 @@
 # react-log-lifecycle
 
-Console.log Lifecycle events in a React Component
-
-Questions? Ask me  [@wildfiction](https://twitter.com/wildfiction). Or create an issue.
+Console.log Lifecycle events in a React PureComponent
 
 ## Install
 

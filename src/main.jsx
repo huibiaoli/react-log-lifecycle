@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class LogLifecyle extends React.Component {
+export default class LogLifecyle extends React.PureComponent {
 
   log(obj) {
     // obj should have a single property.

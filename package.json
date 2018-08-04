@@ -1,7 +1,7 @@
 {
-  "author": "Guy Ellis <wildfiction@gmail.com>",
+  "author": "huibiaoli <huibiaoli@gmail.com>",
   "bugs": {
-    "url": "https://github.com/guyellis/react-log-lifecycle/issues"
+    "url": "https://github.com/huibiaoli/react-log-lifecycle/issues"
   },
   "dependencies": {
     "react": "^15.0.1"
@@ -20,7 +20,7 @@
   "engines": {
     "node": ">=5.0.0"
   },
-  "homepage": "https://github.com/guyellis/react-log-lifecycle#readme",
+  "homepage": "https://github.com/huibiaoli/react-log-lifecycle#readme",
   "keywords": [
     "react",
     "lifecycle",
@@ -31,7 +31,7 @@
   "name": "react-log-lifecycle",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guyellis/react-log-lifecycle.git"
+    "url": "git+https://github.com/huibiaoli/react-log-lifecycle.git"
   },
   "scripts": {
     "build": ". scripts/build.sh",
