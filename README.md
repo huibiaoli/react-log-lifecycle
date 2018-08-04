@@ -1,17 +1,17 @@
-# react-log-lifecycle
+# react-lifecycle-log
 
 Console.log Lifecycle events in a React PureComponent
 
 ## Install
 
 ```shell
-npm install react-log-lifecycle
+npm install react-lifecycle-log
 ```
 
 or
 
 ```shell
-npm install react-log-lifecycle --save-dev
+npm install react-lifecycle-log --save-dev
 ```
 
 ## Usage
