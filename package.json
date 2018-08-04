@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "main": "lib/main.js",
-  "name": "react-log-lifecycle",
+  "name": "react-lifecycle-log",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/huibiaoli/react-log-lifecycle.git"

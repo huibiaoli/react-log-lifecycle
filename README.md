@@ -20,7 +20,7 @@ In your React component:
 
 ```javascript
 import React from 'react';
-import LogLifecyle from 'react-log-lifecycle';
+import LogLifecyle from 'react-lifecycle-log';
 
 // Optional flags:
 const flags = {
